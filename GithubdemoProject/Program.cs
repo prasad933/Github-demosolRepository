@@ -11,8 +11,8 @@ namespace GithubdemoProject
         static void Main(string[] args)
         {
             int a, b, res;
-            a = 5;
-            b = 6;
+            a = 9;
+            b = 10;
             res = a + b;
             Console.WriteLine("The Addition is : " + res);
             Console.WriteLine("Program is Completed");
